@@ -1,0 +1,7 @@
+/build
+/node_modules
+/.env
+/.project
+package-lock.json
+/uploads/*
+src/config/connection/connection.ts
